@@ -1,1 +1,3 @@
 # Trial
+
+python main.py
